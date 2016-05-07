@@ -1,0 +1,92 @@
+.general {
+	background-color: lightgray;
+	border: 2px solid gray;
+	margin: 2px;
+}
+
+.section1 {
+	width: 200px;
+	height: 700px;
+	overflow: hidden;
+	float: left;
+	margin: 0;
+}
+
+.section2 {
+	width: 700px;
+	height: 700px;
+	overflow: hidden;
+	float: left;
+	margin: 0;
+}
+
+.mbox1 {
+	height: 6px;
+	width: 195px;
+	float: left;
+}
+
+
+
+.s2r1 {
+	width: 695px;
+	height: 228px;
+	clear: both;
+}
+.mbox2 {
+	width: 685px;
+	height: 220px;
+	float: left;
+}
+
+
+
+
+.s2r2 {
+	width: 695px;
+	height: 228px;
+}
+
+.mbox3 {
+	width: 512px;
+	height: 220px;
+	float: left;
+}
+
+.mbox4 {
+	width: 165px;
+	height: 220px;
+	float: left;
+}
+
+
+
+
+.s2r3 {
+	width: 695px;
+	height: 228px;
+}
+
+.mbox5 {
+	width: 165px;
+	height: 220px;
+	float: left;
+}
+
+.mbox6 {
+	width: 165px;
+	height: 220px;
+	float: left;
+}
+
+.mbox7 {
+	width: 165px;
+	height: 220px;
+	float: left;
+}
+
+.mbox8 {
+	width: 165px;
+	height: 220px;
+	float: left;
+}

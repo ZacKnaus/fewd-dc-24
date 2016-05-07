@@ -1,0 +1,35 @@
+.main {
+	background: #ddd;
+	padding: 10px;
+	overflow: hidden;
+	margin: 10px;
+	font-family: Arial;
+}
+.idcontent {
+	background: lightgray;
+	padding: 7px;
+	border: 2px solid gray;
+	margin: 10px 0 10px 0;
+}
+.element {
+	background: white;
+	padding: 7px;
+	border: 2px solid gray;
+	margin: 10px 0 10px 0;
+}
+
+.main code {
+	background: rgba(0, 0, 0, 0.05);
+	padding: 0 2px 0 2px;
+	border: 2px solid gray;
+	border-radius: 5px;
+	font-family: courier new;
+
+}
+
+.multiclass {
+	background-color: #ffb2b2;
+	border: red solid 2px;
+	padding: 10px;
+
+}
