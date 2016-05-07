@@ -1,0 +1,31 @@
+* {
+	font-family: Arial;
+}
+
+body {
+	padding: 40px;
+}
+
+h1 {
+	color:black;
+}
+
+p {
+	color: #ccc;
+	padding: 5px;
+}
+
+em {
+	color: black;
+}
+
+blockquote {
+	border-left: 10px solid #ccc;
+	font-style: italic;
+	padding: 5px;
+	margin-left: 5px;
+}
+
+blockquote em {
+	font-style: normal;
+}
