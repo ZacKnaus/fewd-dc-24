@@ -14,3 +14,41 @@
      line-height: 0;
      height: 0;
 }
+
+
+/* GLOBALS */
+
+a {
+	text-decoration: none;
+}
+
+/* WRAPPER */
+.wrapper {
+	width: 100%;
+	max-width: 960px;
+	padding: auto;
+}
+
+/* HEADER */
+
+header nav {
+	background: #004d4d;
+	color: yellow;
+	padding: 25px;
+}
+
+header nav h1 {
+	color: white;
+	font-size: 42px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+header nav ul {
+	display:inline-block;
+}
+
+header nav ul li {
+	display: inline-block;
+	color: yellow;
+}
